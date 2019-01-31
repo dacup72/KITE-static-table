@@ -21,7 +21,6 @@ body {
   overflow: auto;
   background-color: #fff;
   margin-bottom: 1.5em;
-  height: 4.5em;
   padding: 1em;
 }
 
@@ -47,10 +46,9 @@ body {
   font-size: 1.2em;
   margin-bottom: 0.8em;
 }
-.company-score-container {
-  float: right;
-}
+
 .company-score {
+  float: right;
   height: 2.2em;
   width: 3.2em;
   font-weight: 300;
