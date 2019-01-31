@@ -1,0 +1,1 @@
+# KITE-static-table
