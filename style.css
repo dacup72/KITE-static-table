@@ -13,5 +13,52 @@ body {
   width: 100%;
   font-weight: 300;
   font-size: 1.6em;
-  height: 3em;
+  height: 2.5em;
+  margin-bottom: 1em;
+}
+
+.company-card {
+  overflow: auto;
+  background-color: #fff;
+  margin-bottom: 1.5em;
+  height: 4.5em;
+  padding: 1em;
+}
+
+.company-logo {
+  float: left;
+  padding-right: 1em;
+  width: 4.5em;
+  height: 4.5em;
+}
+
+.company-logo img {
+  width: 4.5em;
+  height: 4.5em;
+}
+
+.company-details {
+  float: left;
+  height: 4.5em;
+  width: 85%;
+}
+
+.company-name {
+  font-size: 1.2em;
+  margin-bottom: 0.8em;
+}
+.company-score-container {
+  float: right;
+}
+.company-score {
+  height: 2.2em;
+  width: 3.2em;
+  font-weight: 300;
+  background-color: #F2A01F;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.0625rem;
+  border-radius: 15%;
+  color: white;
 }
